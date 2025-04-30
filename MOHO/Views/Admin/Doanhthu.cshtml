@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="p-3">
+<h2 class="mb-4">Thống Kê Doanh Thu</h2>
+
+<form asp-action="Doanhthu" method="get" class="text-center">
+    <div class="form-row align-items-center">
+        <div class="col-auto">
+            <label for="ngay" class="mr-2">Nhập ngày tháng năm:</label>
+        </div>
+        <div class="col-auto">
+            <input type="date" name="ngay" class="form-control mb-2" id="ngay" required />
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary mb-2">Thống kê</button>
+        </div>
+    </div>
+</form>
+
+    <div class="row mt-4">
+        <!-- Thống kê tổng doanh thu theo ngày -->
+        <div class="col-lg-4 col-6" style="height:400px">
+            <div class="small-box bg-success">
+                <div class="inner">
+                    <h3>@(ViewBag.DoanhThuTheoNgay != null ? String.Format("{0:N0}", ViewBag.DoanhThuTheoNgay) : "0")</h3>
+                    <p>Tổng Doanh Thu Theo Ngày</p>
+                </div>
+                <div class="icon">
+                    <i class="ion-social-usd-outline"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- Thống kê tổng doanh thu theo tháng -->
+        <div class="col-lg-4 col-6">
+            <div class="small-box bg-info">
+                <div class="inner">
+                    <h3>@(ViewBag.DoanhThuTheoThang != null ? String.Format("{0:N0}", ViewBag.DoanhThuTheoThang) : "0")</h3>
+                    <p>Tổng Doanh Thu Theo Tháng</p>
+                </div>
+                <div class="icon">
+                    <i class="ion-social-usd-outline"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- Thống kê tổng doanh thu theo năm -->
+        <div class="col-lg-4 col-6">
+            <div class="small-box bg-warning">
+                <div class="inner">
+                    <h3>@(ViewBag.DoanhThuTheoNam != null ? String.Format("{0:N0}", ViewBag.DoanhThuTheoNam) : "0")</h3>
+                    <p>Tổng Doanh Thu Theo Năm</p>
+                </div>
+                <div class="icon">
+                    <i class="ion-social-usd-outline"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
