@@ -1,0 +1,181 @@
+﻿@model IEnumerable<MOHO.Models.DichVu>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="post-slider">
+    <div class="post-wrapper">
+        <div class="post">
+            <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" class="text-white mb-5">
+                Dich vụ cung cấp rau củ quả tại Hà Nội
+
+                <div class="row mt-5">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="mainServices">
+                            <i class="fa-solid fa-lemon"></i>
+                            <div class="mainServices__content">
+                                <h3>Rau củ tươi</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="mainServices">
+                            <i class="fa-solid fa-truck"></i>
+
+                            <div class="mainServices__content">
+                                <h3>Free Shipping </h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="mainServices">
+                            <i class="fa-solid fa-tree"></i>
+
+                            <div class="mainServices__content">
+                                <h3>Tiêu chuẩn kín</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </h1>
+        </div>
+    </div>
+
+</div>
+
+<div class="modal">
+    <div class="modal-overlay modal-toggle"></div>
+    <div class="modal-wrapper modal-transition">
+
+        @*<h4 class="text-danger">@Html.Raw(TempData["mgss"])</h4>*@
+
+        <div class="modal-header">
+            <button class="modal-close modal-toggle btn fa fa-times" style="outline: none;"></button>
+            <h2 class="modal-heading">Đặt lịch hẹn</h2>
+        </div>
+
+        <style>
+            .form-horizontal .control-label {
+                text-align: unset !important;
+            }
+        </style>
+
+        @*<div class="modal-body">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @if (Session["Username"] != null)
+                    {
+                        <div style="display:none;">@Session["Username"]</div>
+                    }
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.hoten, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.hoten, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.hoten, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.sdt, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.sdt, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.sdt, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.diachi, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.diachi, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.diachi, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.tendichvu, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            <style>
+                                select.form-control:not([size]):not([multiple]) {
+                                    height: unset !important;
+                                }
+                            </style>
+                            <select id="loaidv" name="loaidv" class="form-control">
+                                <option value="Chăm sóc toàn diện">Chăm sóc toàn diện</option>
+                                <option value="Tắm, gội,...">Tắm, gội,...</option>
+                                <option value="Spa cho pet">Spa cho pet</option>
+                            </select>
+                            @Html.ValidationMessageFor(model => model.tendichvu, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.ngaydat, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-12">
+                            <input type="date" name="ngaydat" class="form-control" required />
+                            @Html.ValidationMessageFor(model => model.ngaydat, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            <input type="submit" value="Xác Nhận" class="btn btn-danger" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>*@
+    </div>
+</div>
+
+<div class="body">
+    <div class="container-fluid" style="padding: 0!important;">
+        <div style="background-image: url('../../Content/images/bgmain.jpg')" class="service-banner">
+            <div class="boxservice">
+                <h3 class="h1-title">
+                    Brand Story
+                </h3>
+                <p>Được sáng lập bởi MOHO khi bắt đầu tìm hiểu, nghiên cứu và thấy được những tác dụng tuyệt vời của rau củ. Tháng 1 năm 2018, MOHO chính thức hình thành. Số chứng nhận organic được cấp bởi tổ chức chứng nhận hữu cơ Quốc tế Control Union: Control Union registration code CU 900475- PRC 156299</p>
+
+                <button class="btn btn-danger mt-5 modal-toggle">Liên hệ tư vấn </button>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class=" style="padding: 15px!important;">
+             <img src="~/Content/images/chungnhan.png" alt="">
+        </div>
+    </div>
+    </div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script>
+    // Quick & dirty toggle to demonstrate modal toggle behavior
+    $(document).ready(function () {
+        $('.modal-toggle').on('click', function (e) {
+            e.preventDefault();
+            $('.modal').toggleClass('is-visible');
+        });
+    })
+
+</script>

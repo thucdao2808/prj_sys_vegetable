@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\css\\admin.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\admin\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\js\\.rescache",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\.rescache"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\js\\printThis.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\printThis.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\admin\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\css\\admin.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\admin.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\BGRAUCU.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\BGRAUCU.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\bgmain.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bgmain.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\brand_1.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\brand_1.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\brand_3.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\brand_3.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\brand_4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brand_4.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\chungnhan.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\chungnhan.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\chungnhan.png",
+      "PackagePath": "staticwebassets\\Content\\images\\chungnhan.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\empty_cart.png",
+      "PackagePath": "staticwebassets\\Content\\images\\empty_cart.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\logo.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\logo.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\momo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\momo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\raucu.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\raucu.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp1.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp1.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp10.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp10.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp11.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp11.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp12.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp12.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp13.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp13.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp14.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp14.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp2.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp3.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp3.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp4.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp4.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp5.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp5.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp6.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp6.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp7.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp7.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp8.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp8.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\sanpham\\sp9.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\sanpham\\sp9.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\search_18px.png",
+      "PackagePath": "staticwebassets\\Content\\images\\search_18px.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\slideshow_1.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\slideshow_1.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\slideshow_2.webp",
+      "PackagePath": "staticwebassets\\Content\\images\\slideshow_2.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\undefind.png",
+      "PackagePath": "staticwebassets\\Content\\images\\undefind.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\scripts\\zoomsl.min.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\zoomsl.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\1.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\1.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\10-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-va-ca-moi-12g-202211091558229804.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\10-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-va-ca-moi-12g-202211091558229804.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\2.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\2708_Pedigree19112022032807.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree19112022032807.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\2708_Pedigree191120220328071.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree191120220328071.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\2708_Pedigree1911202203280719112022041526.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree1911202203280719112022041526.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\3.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\3.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\358839814_621929029765851_9155800288078741928_n.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\358839814_621929029765851_9155800288078741928_n.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-12g-202209061336054971.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-12g-202209061336054971.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-moi-12g-202209061333290585.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-moi-12g-202209061333290585.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\IMG_5318.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\IMG_5318.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\avatar.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\banchailong.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\banchailong.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\batan.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\batan.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\camcho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\camcho.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\camcho22102022053633.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\camcho22102022053633.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-iris-kfag100-400x400.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-iris-kfag100-400x400.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043247.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043247.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043459.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043459.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220432471.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220432471.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220434591.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220434591.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\doanchomeoloai3.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\doanchomeoloai3.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\dochocho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dochocho.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\dohop.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dohop.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\dohop2.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dohop2.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\gangtaycho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\gangtaycho.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\giuong.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\giuong.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\giuong1.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\giuong1.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\giuong2.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\giuong2.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\giuong3.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\giuong3.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\hat-cun-cun-cho-meo-2-min-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hat-cun-cun-cho-meo-2-min-1-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\hinhgoc25112022041230.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hinhgoc25112022041230.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\hinhgoc251120220412301.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hinhgoc251120220412301.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\husky.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\husky.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\img16.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg16.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg16.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg63.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg63.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg64.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg64.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg67.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg67.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg68.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg68.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg69.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg69.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imgg70.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg70.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg63.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg63.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg64.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg64.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg67.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg67.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg68.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg68.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg69.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg69.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\imggg70.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg70.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\keocho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\keocho.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\keocho07112022090548.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\keocho07112022090548.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\login_logo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\login_logo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\logo02012023013923.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\logo02012023013923.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\logo02012023014001.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\logo02012023014001.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100336479919112022045140.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100336479919112022045140.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-202209011003368506191120220451401.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-202209011003368506191120220451401.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100337383225112022030244.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100337383225112022030244.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\phongkhach.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\phongkhach.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\phongkhach2.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\phongkhach2.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\phongkhach3.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\phongkhach3.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\register.PNG",
+      "PackagePath": "staticwebassets\\Content\\uploads\\register.PNG"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sellingpoint.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sellingpoint.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp1.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp1.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp10.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp10.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp11.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp11.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp12.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp12.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp14.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp14.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp2.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp2.png"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp3.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp3.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp4.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp4.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp5.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp5.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp6.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp6.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp7.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp7.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp8.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp8.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\sp9.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sp9.webp"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\taymeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\taymeo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\thuc-an-cho-cho-lon-pedigree-vi-ga-va-rau-cu-tui-15kg-202105110829349631.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thuc-an-cho-cho-lon-pedigree-vi-ga-va-rau-cu-tui-15kg-202105110829349631.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\thuc-an-cho-cho-truong-thanh-smartheart-15kg-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thuc-an-cho-cho-truong-thanh-smartheart-15kg-1.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\thucan.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thucan.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\tuingumeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\tuingumeo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\vatdungmeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\vatdungmeo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\Content\\uploads\\vongdeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\vongdeo.jpg"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\dist\\.rescache",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\.rescache"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Chun\\MOHO\\MOHO\\MOHO\\MOHO\\MOHO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MOHO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MOHO.props",
+      "PackagePath": "build\\MOHO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MOHO.props",
+      "PackagePath": "buildMultiTargeting\\MOHO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MOHO.props",
+      "PackagePath": "buildTransitive\\MOHO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
